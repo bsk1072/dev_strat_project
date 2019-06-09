@@ -12,6 +12,7 @@ namespace dotnetHelloWorld.Migrations
     {
         protected override void BuildModel(ModelBuilder modelBuilder)
         {
+			//testing the branching strategy in git - by developer 2
             modelBuilder
                 .HasAnnotation("ProductVersion", "1.1.3");
 

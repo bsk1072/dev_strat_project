@@ -11,6 +11,7 @@ namespace dotnetHelloWorld.Migrations
     [Migration("20171012161451_InitialMigration")]
     partial class InitialMigration
     {
+		//testing the branching strategy in git - by developer 2
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
             modelBuilder
